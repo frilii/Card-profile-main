@@ -50,6 +50,7 @@ p {
   box-shadow: 0 8px 10px 0;
   overflow: hidden;
   transition: all 0.4s ease;
+  margin-top: 50px;
 }
 
 .card-back {
@@ -83,6 +84,7 @@ p {
   overflow: hidden;
   z-index: 1;
   transition: all 0.4s ease;
+  margin-top: 50px;
 }
 
 .card span:first-of-type {
